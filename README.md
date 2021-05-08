@@ -11,6 +11,6 @@ No desafio proposto foi criado uma versão mobile da aplicação Web GoRestauran
 Os requisitos e template do desafio podem ser encontrados no seguinte repositório: **[Desafio 11: GoRestaurant Mobile](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)**
 
 ### :checkered_flag: Aplicação
-<center>
+
 ![Go Restaurant Mobile](https://github.com/henriqueritter/gostack-desafio-react-native-delivery/blob/master/go-restaurant.gif)
-</center>
+

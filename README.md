@@ -12,5 +12,5 @@ Os requisitos e template do desafio podem ser encontrados no seguinte repositór
 
 ### :checkered_flag: Aplicação
 <p align="center">
-![Go Restaurant Mobile](https://github.com/henriqueritter/gostack-desafio-react-native-delivery/blob/master/go-restaurant.gif)
+  <img alt="Go Restaurant Mobile" src="https://github.com/henriqueritter/gostack-desafio-react-native-delivery/blob/master/go-restaurant.gif" />
 </p>
